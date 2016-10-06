@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"I make a change line here");
+    NSLog(@"I have changed this line");
 }
 
 - (void)didReceiveMemoryWarning
