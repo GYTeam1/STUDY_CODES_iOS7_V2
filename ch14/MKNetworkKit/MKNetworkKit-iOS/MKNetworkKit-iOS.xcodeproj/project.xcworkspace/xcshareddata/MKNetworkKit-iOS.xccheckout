@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15F954DE-3A13-4276-BD35-9D96D1D00C08</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MKNetworkKit-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29A1B819-37F8-4DBC-BEFE-C794DE218279</key>
+		<string>https://github.com/MugunthKumar/MKNetworkKit</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MKNetworkKit-iOS/MKNetworkKit-iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29A1B819-37F8-4DBC-BEFE-C794DE218279</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MugunthKumar/MKNetworkKit</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29A1B819-37F8-4DBC-BEFE-C794DE218279</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29A1B819-37F8-4DBC-BEFE-C794DE218279</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MKNetworkKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
